@@ -95,3 +95,27 @@ width: 100%;
     border:1px solid #FFFEFA;
 
 }
+
+.serviceInfo3
+{
+    width:30%;
+    padding: 18px;
+    padding-top: 0px;
+    padding-left: 0px;
+
+
+}
+.upcomingProjects
+{
+    background-image: url("../images/rightArrow.png");
+    height: 46px;
+    background-repeat: no-repeat;
+    text-align: right;
+}
+.completedProjects
+{
+    background-image: url("../images/leftArrow.png");
+    height: 46px;
+    background-repeat: no-repeat;
+    text-align: right;
+}
