@@ -105,6 +105,7 @@ width: 100%;
 
 
 }
+
 .upcomingProjects
 {
     background-image: url("../images/rightArrow.png");
@@ -112,6 +113,7 @@ width: 100%;
     background-repeat: no-repeat;
     text-align: right;
 }
+
 .completedProjects
 {
     background-image: url("../images/leftArrow.png");
