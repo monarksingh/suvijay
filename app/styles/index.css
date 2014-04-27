@@ -1,0 +1,97 @@
+.slider{
+    margin-bottom: 36px;
+    background-color: white;
+    height: auto;
+    padding: 5px;
+    -webkit-box-shadow: 1px 22px 24px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 22px 24px 0px rgba(0,0,0,0.75);
+box-shadow: 1px 22px 24px 0px rgba(0,0,0,0.75);
+}
+
+.info{
+    box-shadow: 6px 0px 5px -5px #999, -6px 0px 5px -5px #999;
+    margin-top: 5px;
+    display: table;
+    background-color: #E4E8E9;
+    min-height: auto;
+    width: 100%;
+}
+
+.info > div{
+    display: table-cell;
+}
+
+.info1 {
+    width:33%;
+    padding: 18px;
+    padding-top: 0px;
+    
+}
+
+.serviceInfo2
+{
+    width:50%;
+    padding: 18px;
+    padding-top: 0px;
+
+}
+.serviceInfo1
+{
+    width:30%;
+    padding: 18px;
+    padding-top: 0px;
+
+}
+
+
+
+.slideImage1{
+    width: 100%;
+    max-height: 100%;
+}
+
+.infoHeader{
+    display: inline-block;
+    width: 100%;
+}
+
+.infoHeaderIcon{
+    float: left;
+    padding-top: 10px;
+}
+
+.infoHeading{
+    font-family:"Times New Roman", Times, serif;
+    color:#484848;
+}
+.infoSubHeading
+{
+    font-weight: 700;
+
+}
+.infoContent{
+    height: 150px;
+    background-color: white;
+    padding: 5px;
+}
+
+.infoContent > img{
+    max-height: 100%;
+width: 100%;
+}
+.projectsImg
+{
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border:1px solid #FFFEFA;
+
+}
+.projectImgContainer
+{
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border:1px solid #FFFEFA;
+
+}

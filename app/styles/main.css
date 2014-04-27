@@ -1,0 +1,71 @@
+html{
+min-width: 1280px;
+
+
+}
+body {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif !important;
+    background: url("../images/brick_background.jpg");
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    color: #333;
+    margin: 0px;
+
+}
+
+.logoWrapper{
+    float: left;
+    position: relative;
+    left: 158px;
+    top: -37px;
+    z-index: 20;
+}
+
+.logo{
+    background-color: white;
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    border: 7px solid #d6d6d6;
+
+}
+.fixedHeight
+{
+    max-height: 300px;
+}
+.nav{
+    background-color: #FFFFFF;
+    height: 42px;
+    margin: 68px 0 0 0;
+    width: 100%;
+}
+
+.nav ul{
+    float: right;
+    padding: 0px;
+    margin: 0px 200px 0px 0px;
+}
+
+.nav li{
+    display: inline;
+}
+
+.nav a{
+    padding: 5px 20px; 
+    color : #518090;
+    text-decoration: none;
+    line-height: 42px;
+    font-size: 20px;
+} 
+
+.nav a:hover{
+    background-color: #dcf3fb;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.contentWrapper{
+    margin: 30px 200px;
+    min-height: 500px;
+}
