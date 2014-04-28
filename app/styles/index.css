@@ -58,15 +58,6 @@
     padding-top: 10px;
 }
 
-.infoHeading{
-    font-family:"Times New Roman", Times, serif;
-    color:#484848;
-}
-.infoSubHeading
-{
-    font-weight: 700;
-
-}
 .infoContent{
     height: 150px;
     background-color: white;

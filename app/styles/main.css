@@ -69,3 +69,8 @@ body {
     margin: 30px 200px;
     min-height: 500px;
 }
+
+h1, h2, h3, h4, h5, h6{
+    font-family:"Times New Roman", Times, serif;
+    color:#484848;
+}
